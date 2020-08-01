@@ -1,0 +1,1 @@
+# Raspberry-Pi-SI7021-Sicaklik-ve-Nem-Sensor-Karti
