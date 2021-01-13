@@ -6,6 +6,11 @@
     The Si7021 communicates with the host controller over a digital I2C interface. The 7-bit base slave address is0x40.
 */
 
+/*
+ * humidityTemp.h
+ *  Author: MuhammetTayyipCankaya
+ *
+ */
 #ifndef HUMIDITY_TEMPERATURE_H_
 #define HUMIDITY_TEMPERATURE_H_
 
