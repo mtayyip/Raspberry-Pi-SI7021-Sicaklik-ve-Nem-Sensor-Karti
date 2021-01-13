@@ -1,3 +1,8 @@
+/*
+ * main.c
+ *  Author: MuhammetTayyipCankaya
+ *
+ */
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
